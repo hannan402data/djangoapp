@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Pizza",
+        "description": "Description of Pizza",
+        "price": 200.0,
+        "category": "Veg",
+        "is_vegetarian": false,
+        "stock_quantity": 10
+    },
+    {
+        "name": "Burger",
+        "description": "Chicken Ham burger",
+        "price": 300.0,
+        "category": "fast food",
+        "is_vegetarian": false,
+        "stock_quantity": 20
+    },
+    {
+        "name": "Butter Chicken",
+        "description": "Chicken and variety of masala's",
+        "price": 350.0,
+        "category": "mughlai",
+        "is_vegetarian": true,
+        "stock_quantity": 10
+    },
+    {
+        "name": "Pizza ",
+        "description": "Dough, variety of masala's ",
+        "price": 430.0,
+        "category": "fast food",
+        "is_vegetarian": true,
+        "stock_quantity": 20
+    }
+]
