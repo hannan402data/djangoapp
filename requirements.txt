@@ -1,0 +1,4 @@
+Django==5.1.4
+pandas
+razorpay
+unfold
